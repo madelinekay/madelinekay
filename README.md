@@ -1,30 +1,7 @@
-### Hiya. 
+### Hello. 
 I'm a Junior Full-Stack Engineer in the process of studying and looking for work. 
 
-<html>
-<!-- <style>
-    p {
-       font-size: 12px 
-    }
-    section {
-        display: flex;
-    }
-    div {
-        margin-right: 15px
-    }
-    li {
-        font-size: 12px
-    }
-</style> -->
-
-<div style="display: flex; justify-content: center">
-<a style="margin-right: 30px" href="https://www.linkedin.com/in/madeline-u-5039b0226/"><img src="assets/resume_icon.jpg" width=50><p>Resume</p></a><a href="<p>Resume</p>"><img src="assets/linked.jpg" width=50><p>LinkedIn</p></a>
-</div>
-
-
-</html>
-
-
+<a href="https://www.linkedin.com/in/madeline-u-5039b0226/"><img src="assets/linked.jpg" width=50><p>LinkedIn</p></a>
 
 ### Projects
 
