@@ -2,7 +2,7 @@
 
 ### I’m a a self-taught frontend engineer looking for my first job in tech. Check out some of my work below and contact me if you think I might be a good fit for your team.
 
-madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/madeline-u-5039b0226/) | Resume available upon request
+madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | Resume available upon request
 
 ## Projects
 
