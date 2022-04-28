@@ -1,28 +1,35 @@
-### Hiya.
+# I’m Madeline 👋🏻
 
-I'm a Junior Full-Stack Engineer looking for my first work opportunity in the industry. Check out my work below and contact me if you think I might be a good fit for your team. 
+### I’m a a self-taught frontend engineer looking for my first job in tech. Check out some of my work below and contact me if you think I might be a good fit for your team.
 
+madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/madeline-u-5039b0226/) | Resume available upon request
 
-<a href="https://www.linkedin.com/in/madeline-u-5039b0226/"><img src="assets/linked.jpg" width=50><p>LinkedIn</p></a>
+## Projects
 
-### Projects
+### Aperture
 
-I'm currently building a backend that tracks remote work hours with NestJS, and perfecting a capacity planning algorithm for an [ordering app](https://github.com/magdaundisz/order-up/blob/main/README.md) I built for a local restaurant. 
+Aperture is an Instagram competitor using **React**, **Typescript**, **Next.js**, **Material UI**, and **Firebase**. Sign in, upload photos with drag and drop, and view your photo stream.
 
-Before software I studied photography and worked as a journalist in Tbilisi. Examples of my work can be seen in a [portfolio](https://github.com/magdaundisz/Photography-Portfolio) I built with Gatsby, and on an [instagram clone](https://github.com/magdaundisz/aperture) that hosts photography on Firebase.
+Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture, pass: aperture)<br>
+Repo: https://github.com/madundiverse/aperture
 
-### Languages, Frameworks, and Libraries
+### Order-Up
 
-<ul>
-<li>Javascript</li>  
-<li>Typescript (see my <a href="https://github.com/magdaundisz/aperture">instagram clone</a>)</li>  
-<li>React</li>
-<li>Next</li>
-<li>Material-UI</li>
-<li>NestJS</li>
-<ul>
+Order-Up is a restaurant order tracker I built while working for a Thai restaurant. Place orders, calculate totals, and estimate order-ready times. Built with **React**, **Javascript**, **Next.js**, **Material UI**, and **Firebase**.
 
- 
+Site: [https://thaipavilionorders.netlify.app/](https://thaipavilionorders.netlify.app/)<br>
+Repo: https://github.com/madundiverse/order-up
 
+### Personal photography site
 
+My first web project, I built a Gatsby site to showcase my photography. Built with React, Javascript, Gatsby, and `gatsby-image` to generate fluid images.
 
+Site: https://magdaundiszphotography.netlify.app/<br>
+Repo: https://github.com/madundiverse/Photography-Portfolio
+## Background
+
+I’ve taken a non-traditional path to software engineering. With a background in art and photography, I worked as a photojournalist and editor in Tbilisi, Georgia. I flew back to the States in early 2020... and then Covid hit.
+
+I've spent the last two years self-studying software engineering, with an emphasis on the frontend. I’ve studied React, [Next.js](https://github.com/vercel/next.js), Javascript/Typescript, and recently started learning backend development with [NestJS](https://github.com/nestjs/nest). I’m excited about programming and looking forward to joining a great team where I can contribute while furthering my development.
+
+Located in Seattle, WA but open to relocation.
