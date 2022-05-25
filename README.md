@@ -6,12 +6,12 @@ madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22
 
 ## Projects
 
-### Aperture
+### Personal photography site
 
-Aperture is an Instagram competitor using **React**, **Typescript**, **Next.js**, **Material UI**, and **Firebase**. Sign in, upload photos with drag and drop, and view your photo stream.
+My first web project, I built a Gatsby site to showcase my photography. Built with React, Javascript, Gatsby, and `gatsby-image` to generate fluid images.
 
-Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture, pass: aperture)<br>
-Repo: https://github.com/madundiverse/aperture
+Site: https://magdaundiszphotography.netlify.app/<br>
+Repo: https://github.com/madundiverse/Photography-Portfolio
 
 ### Order-Up
 
@@ -19,13 +19,13 @@ Order-Up is a restaurant order tracker I built while working for a Thai restaura
 
 Site: [https://thaipavilionorders.netlify.app/](https://thaipavilionorders.netlify.app/)<br>
 Repo: https://github.com/madundiverse/order-up
+### Aperture
 
-### Personal photography site
+Aperture is an Instagram competitor using **React**, **Typescript**, **Next.js**, **Material UI**, and **Firebase**. Sign in, upload photos with drag and drop, and view your photo stream.
 
-My first web project, I built a Gatsby site to showcase my photography. Built with React, Javascript, Gatsby, and `gatsby-image` to generate fluid images.
+Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture, pass: aperture)<br>
+Repo: https://github.com/madundiverse/aperture
 
-Site: https://magdaundiszphotography.netlify.app/<br>
-Repo: https://github.com/madundiverse/Photography-Portfolio
 ## Background
 
 I’ve taken a non-traditional path to software engineering. With a background in art and photography, I worked as a photojournalist and editor in Tbilisi, Georgia. I flew back to the States in early 2020... and then Covid hit.
