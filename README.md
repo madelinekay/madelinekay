@@ -23,7 +23,7 @@ Repo: https://github.com/madundiverse/order-up
 
 Aperture is an Instagram competitor using **React**, **Typescript**, **Next.js**, **Material UI**, and **Firebase**. Sign in, upload photos with drag and drop, and view your photo stream.
 
-Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture, pass: aperture)<br>
+Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture@aperture.com, pass: aperture)<br>
 Repo: https://github.com/madundiverse/aperture
 
 ## Background
