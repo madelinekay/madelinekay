@@ -8,7 +8,7 @@ madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22
 
 ### Personal photography site
 
-My first web project, I built a Gatsby site to showcase my photography. Built with React, Javascript, Gatsby, and `gatsby-image` to generate fluid images.
+For my first web project, I built a Gatsby site to showcase my photography. Built with React, Javascript, Gatsby, and `gatsby-image` to generate fluid images.
 
 Site: https://magdaundiszphotography.netlify.app/<br>
 Repo: https://github.com/madundiverse/Photography-Portfolio
