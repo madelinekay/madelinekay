@@ -1,4 +1,4 @@
-# I’m Madeline 👋🏻
+# I’m Madeline ☺️
 
 ### I’m a self-taught frontend engineer looking for my first job in tech. Check out some of my work below and contact me if you think I might be a good fit for your team.
 
