@@ -1,6 +1,6 @@
 # I’m Madeline 👋
 
-### I’m a self-taught frontend engineer looking for my first job in tech. Check out some of my work below and contact me if you think I might be a good fit for your team.
+### I’m a self-taught engineer looking for my first job in tech. Check out some of my work below and contact me if you think I might be a good fit for your team.
 
 madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/madeline-undis-resume.pdf)
 
