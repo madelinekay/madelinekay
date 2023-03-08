@@ -25,11 +25,3 @@ Aperture is an Instagram competitor using **React**, **Typescript**, **Next.js**
 
 Site: [https://apertura.netlify.app/](https://apertura.netlify.app/) (login with user: aperture [at] aperture.com, pass: aperture)<br>
 Repo: https://github.com/madelinekay/aperture
-
-## Background
-
-I’ve taken a non-traditional path to software engineering. With a background in art and photography, I worked as a photojournalist and editor in Tbilisi, Georgia. I flew back to the States in early 2020... and then Covid hit.
-
-I've spent the last two years self-studying software engineering, with an emphasis on the frontend. I’ve studied React, [Next.js](https://github.com/vercel/next.js), Javascript/Typescript, and recently started learning backend development with [NestJS](https://github.com/nestjs/nest). I’m excited about programming and looking forward to joining a great team where I can contribute while furthering my development.
-
-Located in Seattle, WA but open to relocation.
