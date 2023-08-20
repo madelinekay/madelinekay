@@ -2,13 +2,13 @@
 
 ### I'm a former language/linguistics student with a lifetime passion for computers. Check out some of my work below and contact me if you think I might be a good fit for your team!
 
-madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/madeline-undis-resume.pdf) | [Leetcode](https://leetcode.com/madelinekay/)
+madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/Resume_Madeline_Undis.pdf) | [Leetcode](https://leetcode.com/madelinekay/)
 
 ## Projects
 
 ### Artist Portfolio
 
-As a first project I build a Gatsby static site to display artist portfolios across devices. The app leverages Gatsby-image plugin for fluid, responsive images in photo-reel, modals, and carousels.
+As a first project I built a Gatsby static site to display artist portfolios across devices. The app leverages Gatsby-image plugin for fluid, responsive images in photo-reel, modals, and carousels.
 
 Site: artist-portfolio-stream-and-project.netlify.app<br>
 Repo: https://github.com/madelinekay/artist-portfolio
