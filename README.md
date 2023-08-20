@@ -10,7 +10,7 @@ madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22
 
 As a first project I built a Gatsby static site to display artist portfolios across devices. The app leverages Gatsby-image plugin for fluid, responsive images in photo-reel, modals, and carousels. Built with **React**, **Javascript**,  **Material UI**, and **GatsbyJS**.
 
-Site: [artist-portfolio-stream-and-project.netlify.app](https://thaipavilionorders.netlify.app/)<br>
+Site: [artist-portfolio-project.netlify.app](https://artist-portfolio-project.netlify.app/)<br>
 Repo: https://github.com/madelinekay/artist-portfolio
 
 ### Order-Up
