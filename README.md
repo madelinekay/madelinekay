@@ -1,4 +1,3 @@
-# Hi, I'm Madeline 👋
 
 ## Self-taught software engineer driven by a passion for linguistics and innovation. Develops applications with an insight for, and desire to improve, the gap between human language and code, user experience, and the way we communicate over the web. 
 
