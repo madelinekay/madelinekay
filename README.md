@@ -1,6 +1,7 @@
 # Hi, I'm Madeline 👋
 
-### Self-taught software engineer driven by a passion for linguistics and innovation. Develops applications with an insight for, and desire to improve, the gap between human language and code, user experience, and the way we communicate over the web. 
+## Self-taught software engineer driven by a passion for linguistics and innovation. Develops applications with an insight for, and desire to improve, the gap between human language and code, user experience, and the way we communicate over the web. 
+
 
 madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/Resume_Madeline_Undis.pdf) | [Leetcode](https://leetcode.com/madelinekay/)
 
