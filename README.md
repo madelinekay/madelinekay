@@ -1,8 +1,6 @@
+### Hi, I'm Madeline, a former language/linguistics student with a long-standing passion for computers. Since graduating from a CS bootcamp, I've completed 130+ leetcode problems and several projects with a focus on arts and language, including a linguistics-focused app for learning Hungarian. Check out some of my work below and contact me if you think I'd be a good fit for your team! 
 
-## Self-taught software engineer driven by a passion for linguistics and innovation. Develops applications with an insight for, and desire to improve, the gap between human language and code, user experience, and the way we communicate over the web. 
-
-
-madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/Resume_Madeline_Undis.pdf) | [Leetcode](https://leetcode.com/madelinekay/)
+madeline.kay.undis [at] gmail.com | [LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Resume](https://resume-2022-software.netlify.app/assets/Resume_Madeline_Undis.pdf) 
 
 ## Projects
 
