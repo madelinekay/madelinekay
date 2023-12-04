@@ -1,5 +1,7 @@
 Hi, I'm Madeline, a former language/linguistics student and software engineering convert. Since graduating from a CS bootcamp, I've completed 130+ leetcode problems and several projects with a focus on arts and language, including a linguistics-focused app for learning Hungarian. Check out some of my work below and contact me if you think I'd be a good fit for your team! 
 
+[LinkedIn](https://www.linkedin.com/in/mad22und6780/) | [Leetcode](https://leetcode.com/madelinekay/)
+
 ## Projects
 
 ### Artist Portfolio
