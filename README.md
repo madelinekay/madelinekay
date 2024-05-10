@@ -6,7 +6,7 @@ Software engineer, AI trainer and linguistics nerd.
 
 ### Szótő Szőni
 
-Language-learning app that leverages AI to create content for agglunative, low-resource languages. **Java, MySQL, SpringBoot, Thymeleaf **
+Language-learning app that leverages AI to create content for agglunative, low-resource languages. **Java, MySQL, SpringBoot, Thymeleaf**
 
 Repo: https://github.com/madelinekay/Szoto-Szoni
 
