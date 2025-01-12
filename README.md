@@ -1,4 +1,4 @@
-Software engineer, AI trainer and linguistics nerd. 
+Software engineer and linguistics nerd. 
 
 [LinkedIn](https://www.linkedin.com/in/madelineundis/)
 
